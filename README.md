@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> </a>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo&logo=spring&logoColor=white"> </a><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a><br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"><br>
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
