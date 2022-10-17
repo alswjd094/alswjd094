@@ -14,7 +14,8 @@
 
  
 ## 📂 Project
-* 회원가입 페이지 만들기
+* [회원가입 페이지 만들기](https://github.com/alswjd094/member-registration-code)
+
 <br>
 <br>
 
