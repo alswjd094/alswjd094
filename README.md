@@ -20,10 +20,10 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswjd094&layout=compact)](https://github.com/alswjd094/github-readme-stats)
 
-
-<div align="right">
-
-![MINJUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswjd094&show_icons=true&theme=transparent)
-</div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alswjd094&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswjd094&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=alswjd094&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alswjd094&show_icons=true&theme=transparent" />
+</a>
