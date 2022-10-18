@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=369cf0f3&height=250&section=header&text=MINJUNG'KIM&fontColor=f5f5f5&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-## 📚 Teck Stack
+## 📚 Teck Stack       
+
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> </a>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo&logo=spring&logoColor=white"> </a><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -14,12 +15,18 @@
     <br>
     <br>
 
- 
+
+
 ## 📂 Project
+
 * 📃[회원가입 페이지 만들기](https://github.com/alswjd094/member-registration-code)
 <br>
 <br>
 
+<div align="right">
+
+[<img src="https://img.shields.io/badge/teck blog-339AF0?style=plastic&logo=github&logoColor=white">](http://alswjd094.github.io)
+</div>
 
 
 <table>
@@ -34,3 +41,5 @@
 </td>
 </tr>
 </table>
+
+
