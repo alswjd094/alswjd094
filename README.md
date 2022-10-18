@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=369cf0f3&height=250&section=header&text=MINJUNG'KIM&fontColor=f5f5f5&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-<div align="right">
-
-[<img src="https://img.shields.io/badge/blog-339AF0?style=plastic&logo=github&logoColor=white">](http://alswjd094.github.io)
-</div>
 
 ## 📚 Teck Stack       
 
@@ -19,15 +15,11 @@
     <br>
     <br>
 
-
-
 ## 📂 Project
 
 * 📃[회원가입 페이지 만들기](https://github.com/alswjd094/member-registration-code)
 <br>
 <br>
-
-
 
 <table>
 <tr>
@@ -41,5 +33,9 @@
 </td>
 </tr>
 </table>
+<br>
 
+<div align="right">
 
+[<img src="https://img.shields.io/badge/blog-339AF0?style=plastic&logo=github&logoColor=white">](http://alswjd094.github.io)
+</div>
