@@ -17,12 +17,13 @@
  
 ## 📂 Project
 * 📃[회원가입 페이지 만들기](https://github.com/alswjd094/member-registration-code)
+<br>
+<br>
 
-<br>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswjd094&layout=compact)](https://github.com/alswjd094/github-readme-stats)
+
 
 <div align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswjd094&layout=compact)](https://github.com/alswjd094/github-readme-stats)
+![MINJUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswjd094&show_icons=true&theme=transparent)
 </div>
-    
