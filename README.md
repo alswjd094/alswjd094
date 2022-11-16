@@ -18,6 +18,7 @@
 ## 📂 Project
 
 * 📃[회원제 게시판 프로젝트](https://github.com/alswjd094/members_20221104)
+* 📃[회원가입 페이지 제작](https://github.com/alswjd094/member-registration-code)
 <br>
 <br>
 
