@@ -20,10 +20,10 @@
     <br>
 
 ## 📂 Project
+* 📃[홈가드닝 쇼핑몰 프로젝트](https://github.com/alswjd094/shoppingMall)
 * 📃[회원제 게시판 프로젝트(Spring Boot)](https://github.com/alswjd094/memberBoard_20221213)
 * 📃[회원제 게시판 프로젝트(Spring Framework)](https://github.com/alswjd094/members_20221104)
 * 📃[SNS Clone Coding](https://github.com/alswjd094/project_20221116)
-* 📃[회원가입 페이지 제작](https://github.com/alswjd094/member-registration-code)
 <br>
 <br>
 
