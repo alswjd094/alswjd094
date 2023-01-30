@@ -43,5 +43,5 @@
 
 <div align="right">
 
-[<img src="https://img.shields.io/badge/blog-339AF0?style=plastic&logo=github&logoColor=white">](http://alswjd094.github.io)
+<!-- [<img src="https://img.shields.io/badge/blog-339AF0?style=plastic&logo=github&logoColor=white">](http://alswjd094.github.io) -->
 </div>
