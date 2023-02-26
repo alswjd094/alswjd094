@@ -43,7 +43,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd094)](https://solved.ac/alswjd094)
 <div align="right">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd094">
+<!--  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd094"> -->
 
   
 <!-- [<img src="https://img.shields.io/badge/blog-339AF0?style=plastic&logo=github&logoColor=white">](http://alswjd094.github.io) -->
