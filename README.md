@@ -41,7 +41,7 @@
 </table>
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd094)](https://solved.ac/alswjd094)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd094)](https://solved.ac/alswjd094)-->
 <div align="right">
 <!--  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd094"> -->
 
