@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=369cf0f3&height=250&section=header&text=MINJUNG'KIM&fontColor=f5f5f5&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-## 📚 Teck Stack       
+## 📚 Tech Stack       
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> </a>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intelliJ&logoColor=white"></a>
